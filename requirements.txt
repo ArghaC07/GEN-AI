@@ -3,3 +3,5 @@ requests==2.31.0
 gunicorn==21.2.0
 google-cloud-aiplatform
 google-cloud-secret-manager
+
+AIzaSyCOtEUKnrzgEKT6-Pg5FebbwNrWAK20I2w
